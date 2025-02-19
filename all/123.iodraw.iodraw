@@ -7,14 +7,14 @@
         <mxCell id="0g8fLAme4TPp5Crboz1r-1" value="client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0g8fLAme4TPp5Crboz1r-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="0g8fLAme4TPp5Crboz1r-2" value="proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0g8fLAme4TPp5Crboz1r-3" value="集群1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0g8fLAme4TPp5Crboz1r-4" value="集群2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0g8fLAme4TPp5Crboz1r-5" value="集群3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="340" width="120" height="60" as="geometry" />
