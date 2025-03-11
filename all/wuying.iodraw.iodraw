@@ -26,8 +26,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tYLPzFIE11Pq_AeEMs97-2" value="浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tYLPzFIE11Pq_AeEMs97-2" value="外部浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tYLPzFIE11Pq_AeEMs97-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tYLPzFIE11Pq_AeEMs97-3" target="tYLPzFIE11Pq_AeEMs97-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tYLPzFIE11Pq_AeEMs97-3" value="无影浏览器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
