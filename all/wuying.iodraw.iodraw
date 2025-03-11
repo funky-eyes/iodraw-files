@@ -10,7 +10,7 @@
         <mxCell id="tYLPzFIE11Pq_AeEMs97-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="tYLPzFIE11Pq_AeEMs97-1" target="tYLPzFIE11Pq_AeEMs97-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tYLPzFIE11Pq_AeEMs97-12" value="重定向到geffen固定地址如&lt;div&gt;yun.tongdun.cn/wuying/index?&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tYLPzFIE11Pq_AeEMs97-11">
+        <mxCell id="tYLPzFIE11Pq_AeEMs97-12" value="重定向到geffen固定地址如&lt;div&gt;yun.tongdun.cn/wuying/index?url=luc.tongdun.net&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tYLPzFIE11Pq_AeEMs97-11">
           <mxGeometry x="-0.1867" y="2" relative="1" as="geometry">
             <mxPoint x="29" y="2" as="offset" />
           </mxGeometry>
