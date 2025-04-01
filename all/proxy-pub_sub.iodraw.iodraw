@@ -76,10 +76,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uk8iciDlZoxKtxaYIAcQ-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-18">
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-19" value="discovery" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-18">
           <mxGeometry x="0.4671" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="33" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
