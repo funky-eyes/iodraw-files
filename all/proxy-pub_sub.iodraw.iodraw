@@ -192,6 +192,15 @@
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-74" value="clusterIp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="850" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-75" value="proxy-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-76" value="client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-77" value="clusterIp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
