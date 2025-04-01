@@ -164,11 +164,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-46" target="uk8iciDlZoxKtxaYIAcQ-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-46" value="proxy-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uk8iciDlZoxKtxaYIAcQ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-62" target="uk8iciDlZoxKtxaYIAcQ-46">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-62" value="channel：&lt;div&gt;connection1&lt;/div&gt;&lt;div&gt;connection2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="660" width="110" height="110" as="geometry" />
