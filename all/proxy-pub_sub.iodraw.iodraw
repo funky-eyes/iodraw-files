@@ -159,7 +159,7 @@
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-46" target="uk8iciDlZoxKtxaYIAcQ-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="570" />
+              <mxPoint x="90" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-46" value="proxy-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-51" target="uk8iciDlZoxKtxaYIAcQ-57">
           <mxGeometry relative="1" as="geometry" />
@@ -204,12 +204,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-51" value="proxy-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-54" target="uk8iciDlZoxKtxaYIAcQ-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="570" />
+              <mxPoint x="450" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -219,7 +219,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-54" value="proxy-3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-57" target="uk8iciDlZoxKtxaYIAcQ-54">
           <mxGeometry relative="1" as="geometry" />
@@ -230,13 +230,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-57" value="aerospike-default" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.867;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-57" target="uk8iciDlZoxKtxaYIAcQ-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="314" y="500" />
-              <mxPoint x="314" y="500" />
+              <mxPoint x="314" y="1030" />
+              <mxPoint x="314" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -248,7 +248,7 @@
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.867;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-57" target="uk8iciDlZoxKtxaYIAcQ-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="134" y="550" />
+              <mxPoint x="134" y="1080" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -258,11 +258,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-62" value="ip:port&lt;div&gt;ip:port&lt;/div&gt;&lt;div&gt;ip:port&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="130" width="110" height="110" as="geometry" />
+          <mxGeometry x="35" y="660" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="uk8iciDlZoxKtxaYIAcQ-65">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="320" as="sourcePoint" />
+            <mxPoint x="270" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-64" value="增加到内存中的服务列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-63">
@@ -271,11 +271,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-65" value="ip:port&lt;div&gt;ip:port&lt;/div&gt;&lt;div&gt;ip:port&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="130" width="110" height="110" as="geometry" />
+          <mxGeometry x="215" y="660" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="uk8iciDlZoxKtxaYIAcQ-68">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="445" y="320" as="sourcePoint" />
+            <mxPoint x="445" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-67" value="增加到内存中的服务列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-66">
@@ -284,18 +284,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-68" value="ip:port&lt;div&gt;ip:port&lt;/div&gt;&lt;div&gt;ip:port&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="130" width="110" height="110" as="geometry" />
+          <mxGeometry x="390" y="660" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-71" target="uk8iciDlZoxKtxaYIAcQ-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uk8iciDlZoxKtxaYIAcQ-70" value="publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-69">
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-70" value="subscribe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-69">
           <mxGeometry x="0.1556" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-71" value="client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-380" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-74" target="uk8iciDlZoxKtxaYIAcQ-46">
           <mxGeometry relative="1" as="geometry" />
@@ -306,7 +306,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-74" value="clusterIp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
