@@ -192,13 +192,16 @@
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-74" value="clusterIp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="850" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-75" target="uk8iciDlZoxKtxaYIAcQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-75" value="proxy-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-76" target="uk8iciDlZoxKtxaYIAcQ-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uk8iciDlZoxKtxaYIAcQ-80" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-78">
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-80" value="publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-78">
           <mxGeometry x="-0.1778" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -208,6 +211,11 @@
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-77" target="uk8iciDlZoxKtxaYIAcQ-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-81" value="publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-79">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-77" value="clusterIp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="970" width="120" height="60" as="geometry" />
