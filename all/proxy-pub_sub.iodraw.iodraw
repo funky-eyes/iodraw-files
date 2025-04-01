@@ -19,6 +19,11 @@
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-3" target="uk8iciDlZoxKtxaYIAcQ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-22" value="增加到内存中的服务列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uk8iciDlZoxKtxaYIAcQ-21">
+          <mxGeometry x="0.05" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-3" value="proxy-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -85,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-20" value="ip:port&lt;div&gt;ip:port&lt;/div&gt;&lt;div&gt;ip:port&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="120" width="110" height="110" as="geometry" />
+          <mxGeometry x="25" y="120" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
