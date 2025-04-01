@@ -7,12 +7,6 @@
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-1" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uk8iciDlZoxKtxaYIAcQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-2" target="uk8iciDlZoxKtxaYIAcQ-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uk8iciDlZoxKtxaYIAcQ-2" value="cluster-ip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-3" target="uk8iciDlZoxKtxaYIAcQ-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -64,6 +58,14 @@
         </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-7" value="aerospike-default" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.867;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-7" target="uk8iciDlZoxKtxaYIAcQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="490" />
+              <mxPoint x="304" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
