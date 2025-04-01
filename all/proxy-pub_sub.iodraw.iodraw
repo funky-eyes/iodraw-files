@@ -16,6 +16,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uk8iciDlZoxKtxaYIAcQ-3" target="uk8iciDlZoxKtxaYIAcQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uk8iciDlZoxKtxaYIAcQ-3" value="proxy-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -81,8 +84,8 @@
             <mxPoint y="33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uk8iciDlZoxKtxaYIAcQ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="uk8iciDlZoxKtxaYIAcQ-20" value="ip:port&lt;div&gt;ip:port&lt;/div&gt;&lt;div&gt;ip:port&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
