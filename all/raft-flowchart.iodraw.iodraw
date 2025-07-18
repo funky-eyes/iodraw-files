@@ -108,19 +108,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-36" value="TXG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="159" width="120" height="60" as="geometry" />
+          <mxGeometry x="-204" y="156" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-38" target="KrcFrfaOWfF-Bz85778K-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-38" value="Server#start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-204" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-44" target="KrcFrfaOWfF-Bz85778K-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-44" value="&lt;div&gt;SessionHolder#init&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-204" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-47" target="KrcFrfaOWfF-Bz85778K-1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-47" value="RTSM#init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="-204" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
