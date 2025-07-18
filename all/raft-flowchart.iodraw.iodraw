@@ -101,7 +101,7 @@
         <mxCell id="KrcFrfaOWfF-Bz85778K-25" value="init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KrcFrfaOWfF-Bz85778K-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KrcFrfaOWfF-Bz85778K-32" value="noting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
