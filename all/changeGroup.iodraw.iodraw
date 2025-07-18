@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W2QWuY-bj4TAUko2_wMH-1" value="CG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W2QWuY-bj4TAUko2_wMH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2QWuY-bj4TAUko2_wMH-1" target="W2QWuY-bj4TAUko2_wMH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2QWuY-bj4TAUko2_wMH-1" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W2QWuY-bj4TAUko2_wMH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -17,7 +20,7 @@
           <mxGeometry x="550" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W2QWuY-bj4TAUko2_wMH-6" value="CG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
