@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-36" value="TXG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-210" y="159" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-38" target="KrcFrfaOWfF-Bz85778K-44">
           <mxGeometry relative="1" as="geometry" />
