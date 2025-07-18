@@ -39,6 +39,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W2QWuY-bj4TAUko2_wMH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W2QWuY-bj4TAUko2_wMH-10" target="W2QWuY-bj4TAUko2_wMH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W2QWuY-bj4TAUko2_wMH-10" value="Node#apply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,6 +67,9 @@
         </mxCell>
         <mxCell id="W2QWuY-bj4TAUko2_wMH-17" value="&lt;div&gt;Closure#run&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W2QWuY-bj4TAUko2_wMH-21" value="Task#future.get" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
