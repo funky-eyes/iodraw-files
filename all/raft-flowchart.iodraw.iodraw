@@ -36,6 +36,9 @@
         <mxCell id="KrcFrfaOWfF-Bz85778K-5" value="&lt;div&gt;SessionHolder#init&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KrcFrfaOWfF-Bz85778K-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-7" target="KrcFrfaOWfF-Bz85778K-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-7" value="RTSM#init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
         </mxCell>
@@ -76,9 +79,6 @@
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-23" value="readConf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KrcFrfaOWfF-Bz85778K-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-25" target="KrcFrfaOWfF-Bz85778K-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-25" value="init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="750" width="120" height="60" as="geometry" />
