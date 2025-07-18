@@ -36,8 +36,13 @@
         <mxCell id="KrcFrfaOWfF-Bz85778K-5" value="&lt;div&gt;SessionHolder#init&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KrcFrfaOWfF-Bz85778K-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-7" target="KrcFrfaOWfF-Bz85778K-25">
+        <mxCell id="KrcFrfaOWfF-Bz85778K-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-7" target="KrcFrfaOWfF-Bz85778K-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KrcFrfaOWfF-Bz85778K-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KrcFrfaOWfF-Bz85778K-28">
+          <mxGeometry x="-0.4645" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-7" value="RTSM#init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
