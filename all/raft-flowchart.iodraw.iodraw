@@ -110,28 +110,24 @@
         <mxCell id="KrcFrfaOWfF-Bz85778K-36" value="CG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KrcFrfaOWfF-Bz85778K-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-38" target="KrcFrfaOWfF-Bz85778K-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KrcFrfaOWfF-Bz85778K-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-380" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-38" value="Server#start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KrcFrfaOWfF-Bz85778K-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-42" target="KrcFrfaOWfF-Bz85778K-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KrcFrfaOWfF-Bz85778K-42" value="&lt;div&gt;RCSM#start&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="KrcFrfaOWfF-Bz85778K-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KrcFrfaOWfF-Bz85778K-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-380" y="400" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-44" target="KrcFrfaOWfF-Bz85778K-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-44" value="&lt;div&gt;SessionHolder#init&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KrcFrfaOWfF-Bz85778K-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130" y="740" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-47" value="RTSM#init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="590" width="120" height="60" as="geometry" />
