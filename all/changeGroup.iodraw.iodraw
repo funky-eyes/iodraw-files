@@ -31,6 +31,9 @@
         <mxCell id="W2QWuY-bj4TAUko2_wMH-8" value="createTask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="W2QWuY-bj4TAUko2_wMH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W2QWuY-bj4TAUko2_wMH-10" target="W2QWuY-bj4TAUko2_wMH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W2QWuY-bj4TAUko2_wMH-10" value="Node#apply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="410" width="120" height="60" as="geometry" />
         </mxCell>
