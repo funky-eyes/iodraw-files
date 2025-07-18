@@ -51,11 +51,14 @@
         <mxCell id="KrcFrfaOWfF-Bz85778K-12" value="&lt;div&gt;onSnapshotLoad&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KrcFrfaOWfF-Bz85778K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-15" target="KrcFrfaOWfF-Bz85778K-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-15" value="onApply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KrcFrfaOWfF-Bz85778K-17" value="onApply" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="KrcFrfaOWfF-Bz85778K-17" value="&lt;div&gt;onLeaderStart&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
