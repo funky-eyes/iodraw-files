@@ -7,8 +7,14 @@
         <mxCell id="KrcFrfaOWfF-Bz85778K-1" value="CG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KrcFrfaOWfF-Bz85778K-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrcFrfaOWfF-Bz85778K-2" target="KrcFrfaOWfF-Bz85778K-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KrcFrfaOWfF-Bz85778K-2" value="Server#start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KrcFrfaOWfF-Bz85778K-3" value="&lt;div&gt;RCSM#start&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
