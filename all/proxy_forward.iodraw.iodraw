@@ -133,11 +133,20 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-38" value="client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-39" target="rkSEMs4T4043LWHx3k4B-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-39" value="proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-42" target="rkSEMs4T4043LWHx3k4B-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-42" value="忽略读&amp;amp;pubsub请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
