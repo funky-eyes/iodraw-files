@@ -97,6 +97,14 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-26" value="clientChannlManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="920" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-29" target="rkSEMs4T4043LWHx3k4B-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-32" value="poll 获取连接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkSEMs4T4043LWHx3k4B-31">
+          <mxGeometry x="-0.1833" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-29" value="RedisClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="740" width="120" height="60" as="geometry" />
         </mxCell>
