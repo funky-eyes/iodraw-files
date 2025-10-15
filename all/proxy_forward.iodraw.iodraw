@@ -7,7 +7,7 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-1" target="rkSEMs4T4043LWHx3k4B-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rkSEMs4T4043LWHx3k4B-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-1" target="rkSEMs4T4043LWHx3k4B-3">
+        <mxCell id="rkSEMs4T4043LWHx3k4B-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-1" target="rkSEMs4T4043LWHx3k4B-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-1" value="start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-3" value="RedisClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-4" target="rkSEMs4T4043LWHx3k4B-6">
           <mxGeometry relative="1" as="geometry" />
@@ -49,25 +49,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-11" value="init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-13" target="rkSEMs4T4043LWHx3k4B-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-13" value="create connectionPool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-15" value="channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="314" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-17" value="channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="324" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-18" value="channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="334" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-19" value="channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="344" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
