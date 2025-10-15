@@ -154,9 +154,6 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-46" value="忽略读&amp;amp;pubsub请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rkSEMs4T4043LWHx3k4B-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-48" target="rkSEMs4T4043LWHx3k4B-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-48" value="apexdb-handle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
