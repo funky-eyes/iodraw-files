@@ -122,8 +122,8 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-35" value="redisChannel" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rkSEMs4T4043LWHx3k4B-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1200" width="120" height="60" as="geometry" />
+        <mxCell id="rkSEMs4T4043LWHx3k4B-38" value="request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
