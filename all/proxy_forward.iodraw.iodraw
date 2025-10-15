@@ -45,7 +45,7 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-11" value="init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rkSEMs4T4043LWHx3k4B-13" value="create 16&amp;nbsp; Channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rkSEMs4T4043LWHx3k4B-13" value="create connectionPool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
