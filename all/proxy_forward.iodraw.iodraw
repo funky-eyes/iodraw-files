@@ -7,11 +7,20 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-1" value="start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-2" target="rkSEMs4T4043LWHx3k4B-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-2" value="ApexdbClientFactory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-3" value="RedisClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-4" value="init" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
