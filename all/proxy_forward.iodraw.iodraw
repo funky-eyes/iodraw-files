@@ -10,8 +10,8 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-2" value="ApexdbClientFactory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rkSEMs4T4043LWHx3k4B-3" value="ApexdbClientFactory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="rkSEMs4T4043LWHx3k4B-3" value="RedisClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
