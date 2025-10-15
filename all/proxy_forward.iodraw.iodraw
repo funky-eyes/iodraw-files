@@ -125,7 +125,7 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-38" target="rkSEMs4T4043LWHx3k4B-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rkSEMs4T4043LWHx3k4B-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkSEMs4T4043LWHx3k4B-40">
+        <mxCell id="rkSEMs4T4043LWHx3k4B-41" value="request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkSEMs4T4043LWHx3k4B-40">
           <mxGeometry x="-0.2" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-39" value="proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1260" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
