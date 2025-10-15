@@ -83,6 +83,11 @@
         <mxCell id="rkSEMs4T4043LWHx3k4B-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rkSEMs4T4043LWHx3k4B-23" target="rkSEMs4T4043LWHx3k4B-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rkSEMs4T4043LWHx3k4B-28" value="save" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rkSEMs4T4043LWHx3k4B-27">
+          <mxGeometry x="-0.2571" y="4" relative="1" as="geometry">
+            <mxPoint x="4" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rkSEMs4T4043LWHx3k4B-23" value="proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="920" width="120" height="60" as="geometry" />
         </mxCell>
