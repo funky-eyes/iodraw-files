@@ -83,7 +83,7 @@
           <mxGeometry x="190.25" y="440" width="207.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="196.75" y="461" width="60" height="59" as="geometry" />
+          <mxGeometry x="196.75" y="461" width="83.25" height="59" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-50" value="node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201.75" y="490" width="30" height="30" as="geometry" />
