@@ -29,7 +29,7 @@
           <mxGeometry x="225" y="188" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-25" value="cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="198" width="60" height="30" as="geometry" />
+          <mxGeometry x="225" y="271" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
