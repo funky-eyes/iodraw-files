@@ -17,10 +17,10 @@
           <mxGeometry x="193.5" y="221" width="207.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-13" value="namespace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="168" width="90" height="30" as="geometry" />
+          <mxGeometry x="255" y="168" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-24" value="cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="191" width="60" height="30" as="geometry" />
+          <mxGeometry x="267.25" y="191" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="242" width="60" height="59" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="270" y="242" width="60" height="59" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-32" value="node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278.5" y="270" width="30" height="31" as="geometry" />
+          <mxGeometry x="282.25" y="270" width="30" height="31" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="242" width="60" height="59" as="geometry" />
