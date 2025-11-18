@@ -95,7 +95,10 @@
           <mxGeometry x="226.75" y="490" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-60" value="cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="277.25" y="201" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="301" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lkBP4w6k1XdOduRH7DLS-61" value="cluster-raft" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="410" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
