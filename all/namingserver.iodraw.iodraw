@@ -25,19 +25,19 @@
         <mxCell id="lkBP4w6k1XdOduRH7DLS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="200" y="242" width="60" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="lkBP4w6k1XdOduRH7DLS-29" value="node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lkBP4w6k1XdOduRH7DLS-29" value="node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="215" y="271" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-30" value="unit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="221" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lkBP4w6k1XdOduRH7DLS-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lkBP4w6k1XdOduRH7DLS-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="270" y="242" width="60" height="59" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-32" value="node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282.25" y="270" width="30" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="lkBP4w6k1XdOduRH7DLS-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lkBP4w6k1XdOduRH7DLS-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="335" y="242" width="60" height="59" as="geometry" />
         </mxCell>
         <mxCell id="lkBP4w6k1XdOduRH7DLS-34" value="node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
