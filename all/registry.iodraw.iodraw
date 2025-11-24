@@ -76,8 +76,8 @@
         <mxCell id="P-HY4hplgOkmzJxvszSt-24" value="heartbeat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P-HY4hplgOkmzJxvszSt-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="P-HY4hplgOkmzJxvszSt-25" value="client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P-HY4hplgOkmzJxvszSt-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="370" width="310" height="70" as="geometry" />
@@ -85,7 +85,7 @@
         <mxCell id="P-HY4hplgOkmzJxvszSt-28" value="vgroup-1 -&amp;gt; cluster-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="375" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P-HY4hplgOkmzJxvszSt-29" value="vgroup -&amp;gt; cluster-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P-HY4hplgOkmzJxvszSt-29" value="vgroup-2 -&amp;gt; cluster-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
