@@ -103,8 +103,8 @@
         <mxCell id="P-HY4hplgOkmzJxvszSt-34" value="vgroup-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="435" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P-HY4hplgOkmzJxvszSt-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="258" width="50" height="30" as="geometry" />
+        <mxCell id="P-HY4hplgOkmzJxvszSt-36" value="address" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
