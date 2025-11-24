@@ -34,6 +34,9 @@
         <mxCell id="P-HY4hplgOkmzJxvszSt-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="474.5" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P-HY4hplgOkmzJxvszSt-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="130" width="150" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="P-HY4hplgOkmzJxvszSt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -45,9 +48,6 @@
         </mxCell>
         <mxCell id="P-HY4hplgOkmzJxvszSt-15" value="cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="505" y="121" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P-HY4hplgOkmzJxvszSt-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="130" width="150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="P-HY4hplgOkmzJxvszSt-16" value="Node-3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="495" y="265" width="80" height="50" as="geometry" />
