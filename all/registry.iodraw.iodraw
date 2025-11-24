@@ -86,18 +86,10 @@
           <mxGeometry x="460" y="370" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P-HY4hplgOkmzJxvszSt-28" value="vgroup-1 -&amp;gt; cluster-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="467" y="370" width="120" height="65" as="geometry" />
+          <mxGeometry x="467" y="375" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="P-HY4hplgOkmzJxvszSt-29" value="vgroup-2 -&amp;gt; cluster-2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="375" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="P-HY4hplgOkmzJxvszSt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P-HY4hplgOkmzJxvszSt-28" target="P-HY4hplgOkmzJxvszSt-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="527" y="350" />
-              <mxPoint x="526" y="350" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
