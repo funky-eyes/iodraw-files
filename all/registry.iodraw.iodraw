@@ -13,6 +13,9 @@
         <mxCell id="P-HY4hplgOkmzJxvszSt-4" value="Namingserver&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="85" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P-HY4hplgOkmzJxvszSt-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-HY4hplgOkmzJxvszSt-5" target="P-HY4hplgOkmzJxvszSt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P-HY4hplgOkmzJxvszSt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="150" height="220" as="geometry" />
         </mxCell>
@@ -97,8 +100,8 @@
             <mxPoint x="527" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P-HY4hplgOkmzJxvszSt-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="418" width="50" height="30" as="geometry" />
+        <mxCell id="P-HY4hplgOkmzJxvszSt-34" value="vgroup-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="435" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
