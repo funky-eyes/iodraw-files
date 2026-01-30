@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b3NqW8x5pdEbXuiqvHkJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b3NqW8x5pdEbXuiqvHkJ-1" target="b3NqW8x5pdEbXuiqvHkJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b3NqW8x5pdEbXuiqvHkJ-1" value="consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -19,8 +22,8 @@
         <mxCell id="b3NqW8x5pdEbXuiqvHkJ-5" value="broker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b3NqW8x5pdEbXuiqvHkJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="b3NqW8x5pdEbXuiqvHkJ-6" value="s3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
