@@ -53,10 +53,13 @@
             <mxPoint y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="b3NqW8x5pdEbXuiqvHkJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b3NqW8x5pdEbXuiqvHkJ-17" target="b3NqW8x5pdEbXuiqvHkJ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b3NqW8x5pdEbXuiqvHkJ-17" value="解析后组装成标准的records" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b3NqW8x5pdEbXuiqvHkJ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b3NqW8x5pdEbXuiqvHkJ-19" value="consume" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
