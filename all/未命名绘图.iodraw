@@ -13,6 +13,16 @@
         <mxCell id="b3NqW8x5pdEbXuiqvHkJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b3NqW8x5pdEbXuiqvHkJ-1" target="b3NqW8x5pdEbXuiqvHkJ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="b3NqW8x5pdEbXuiqvHkJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b3NqW8x5pdEbXuiqvHkJ-1" target="b3NqW8x5pdEbXuiqvHkJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="340" />
+              <mxPoint y="448" />
+              <mxPoint x="30" y="448" />
+              <mxPoint x="30" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="b3NqW8x5pdEbXuiqvHkJ-1" value="consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
         </mxCell>
