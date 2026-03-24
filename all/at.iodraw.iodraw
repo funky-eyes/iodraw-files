@@ -231,11 +231,12 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-72" value="MSK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="30" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-32" target="cMWkDrh5dhw_toazDORD-16">
+        <mxCell id="cMWkDrh5dhw_toazDORD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-32" target="cMWkDrh5dhw_toazDORD-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="474" y="550" />
               <mxPoint x="260" y="550" />
+              <mxPoint x="260" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
