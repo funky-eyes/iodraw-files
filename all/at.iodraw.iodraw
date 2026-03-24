@@ -193,7 +193,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.091;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-30" target="cMWkDrh5dhw_toazDORD-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-15" target="cMWkDrh5dhw_toazDORD-34">
+        <mxCell id="cMWkDrh5dhw_toazDORD-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-15" target="cMWkDrh5dhw_toazDORD-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="550" />
@@ -225,7 +225,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-71" value="MSK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-72" target="cMWkDrh5dhw_toazDORD-32">
+        <mxCell id="cMWkDrh5dhw_toazDORD-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-72" target="cMWkDrh5dhw_toazDORD-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-72" value="MSK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
