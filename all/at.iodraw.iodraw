@@ -36,7 +36,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-14" value="advance-tire-consumer&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-15" value="P&lt;span style=&quot;background-color: initial;&quot;&gt;ostgresql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMWkDrh5dhw_toazDORD-15" value="P&lt;span style=&quot;background-color: initial;&quot;&gt;ostgresql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="510" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-16" value="Aws S3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -205,7 +205,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cMWkDrh5dhw_toazDORD-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="720" width="520" height="340" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-67" value="Glue Big Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
