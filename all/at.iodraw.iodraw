@@ -179,13 +179,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.726;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-24" target="cMWkDrh5dhw_toazDORD-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="890" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-55" value="GreptimeDB&lt;div&gt;(App logs&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2C4G&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="920" y="140" width="110" height="360" as="geometry" />
         </mxCell>
@@ -193,6 +186,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-25" target="cMWkDrh5dhw_toazDORD-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.091;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-30" target="cMWkDrh5dhw_toazDORD-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
