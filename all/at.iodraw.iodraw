@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-2" value="P&lt;span style=&quot;background-color: initial;&quot;&gt;ublic Internet&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="245" width="100" height="30" as="geometry" />
+          <mxGeometry x="-120" y="295" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-3" value="Loadbalance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="252" y="110" width="578" height="400" as="geometry" />
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-34" value="advance-tire-api&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-35" value="EC2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="271" y="110" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
