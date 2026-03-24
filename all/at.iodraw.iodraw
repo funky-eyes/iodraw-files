@@ -93,7 +93,12 @@
           <mxGeometry x="280" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-32" target="cMWkDrh5dhw_toazDORD-90">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="540" />
+              <mxPoint x="340" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-32" value="advance-tire-consumer&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="414" y="420" width="120" height="60" as="geometry" />
@@ -236,7 +241,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-90" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="280" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-91" value="XXL-JOB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="cMWkDrh5dhw_toazDORD-91" value="XXL-JOB&lt;div&gt;2c4g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="290" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
