@@ -38,7 +38,7 @@
           <mxGeometry x="414" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="580" width="510" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
