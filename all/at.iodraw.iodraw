@@ -101,7 +101,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-33" value="overseas-credit-premium&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="550" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-34" target="cMWkDrh5dhw_toazDORD-15">
+        <mxCell id="cMWkDrh5dhw_toazDORD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-34" target="cMWkDrh5dhw_toazDORD-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="540" />
@@ -201,7 +201,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.177;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-33" target="cMWkDrh5dhw_toazDORD-15">
+        <mxCell id="cMWkDrh5dhw_toazDORD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.177;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-33" target="cMWkDrh5dhw_toazDORD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-65" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cMWkDrh5dhw_toazDORD-33">
