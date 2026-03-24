@@ -23,7 +23,11 @@
           <mxGeometry x="271" y="140" width="539" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-12" target="cMWkDrh5dhw_toazDORD-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-12" value="Apisix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
