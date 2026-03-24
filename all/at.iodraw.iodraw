@@ -214,7 +214,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-25" target="cMWkDrh5dhw_toazDORD-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="cMWkDrh5dhw_toazDORD-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry y="840" width="520" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-67" value="Glue Big Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
