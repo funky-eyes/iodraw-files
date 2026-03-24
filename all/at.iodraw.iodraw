@@ -163,12 +163,23 @@
           <mxGeometry x="370.00000000000045" y="95.00285714285711" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-34" target="cMWkDrh5dhw_toazDORD-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="889" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-29" target="cMWkDrh5dhw_toazDORD-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="889" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.726;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-24" target="cMWkDrh5dhw_toazDORD-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
