@@ -245,10 +245,10 @@
           <mxGeometry x="290" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-95" value="Apollo/Nacos" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="500" y="554" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-98" value="Apollo/Nacos&lt;div&gt;2c4g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="510" y="564" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
