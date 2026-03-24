@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="252" y="110" width="818" height="400" as="geometry" />
+          <mxGeometry x="252" y="110" width="818" height="480" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-5" value="EKS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="516" y="80" width="50" height="30" as="geometry" />
@@ -194,18 +194,8 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-71" value="MSK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-72">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="474" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-72" value="MSK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="30" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" target="cMWkDrh5dhw_toazDORD-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="474" y="600" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-79" value="&lt;article data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{&amp;quot;copyFrom&amp;quot;:&amp;quot;im-native&amp;quot;},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;Offline metrics&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;offline-metrics&lt;/span&gt;&lt;/p&gt;&lt;/article&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="890" width="120" height="60" as="geometry" />
