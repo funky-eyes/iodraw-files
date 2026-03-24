@@ -108,7 +108,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-30" target="cMWkDrh5dhw_toazDORD-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="211" y="480" />
+              <mxPoint x="211" y="460" />
               <mxPoint x="211" y="635" />
             </Array>
           </mxGeometry>
@@ -229,8 +229,8 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-72" target="cMWkDrh5dhw_toazDORD-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="650" />
-              <mxPoint x="200" y="470" />
+              <mxPoint x="230" y="650" />
+              <mxPoint x="230" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
