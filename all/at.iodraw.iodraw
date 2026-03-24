@@ -22,6 +22,9 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="271" y="140" width="539" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-12" target="cMWkDrh5dhw_toazDORD-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-12" value="Apisix" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -108,7 +111,15 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-41" value="Apsix-control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="280.5" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-43" value="Net Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMWkDrh5dhw_toazDORD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-43" target="cMWkDrh5dhw_toazDORD-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMWkDrh5dhw_toazDORD-45">
+          <mxGeometry x="0.073" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-43" value="Net Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="280" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
