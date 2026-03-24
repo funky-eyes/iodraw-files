@@ -162,6 +162,9 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-51" value="Config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="370.00000000000045" y="95.00285714285711" as="geometry" />
         </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-34" target="cMWkDrh5dhw_toazDORD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
