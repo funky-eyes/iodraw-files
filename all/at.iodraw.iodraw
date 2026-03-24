@@ -90,7 +90,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-32" value="advance-tire-consumer&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="414" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-33" target="cMWkDrh5dhw_toazDORD-72">
+        <mxCell id="cMWkDrh5dhw_toazDORD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-33" target="cMWkDrh5dhw_toazDORD-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="520" />
@@ -239,7 +239,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.121;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-32" target="cMWkDrh5dhw_toazDORD-15">
+        <mxCell id="cMWkDrh5dhw_toazDORD-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.121;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-32" target="cMWkDrh5dhw_toazDORD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
