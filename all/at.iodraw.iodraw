@@ -114,13 +114,18 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-43" target="cMWkDrh5dhw_toazDORD-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMWkDrh5dhw_toazDORD-45">
+        <mxCell id="cMWkDrh5dhw_toazDORD-46" value="Metrics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cMWkDrh5dhw_toazDORD-45">
           <mxGeometry x="0.073" y="2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-43" value="Net Gateway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="280" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-47" value="Metrics" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="348.56531030011683" y="-6.995912128469627" as="geometry">
+            <mxPoint x="-13" y="106" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
