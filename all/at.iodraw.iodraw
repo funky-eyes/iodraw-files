@@ -317,10 +317,10 @@
           <mxGeometry x="740" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-116" value="storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="534" y="795" width="120" height="60" as="geometry" />
+          <mxGeometry x="545" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-118" value="storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="544" y="805" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="805" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-119" value="storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="735" y="795" width="120" height="60" as="geometry" />
