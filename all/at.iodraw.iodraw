@@ -39,6 +39,14 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-14" value="advance-tire-consumer&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-15" target="cMWkDrh5dhw_toazDORD-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="640" />
+              <mxPoint x="810" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-15" value="P&lt;span style=&quot;background-color: initial;&quot;&gt;ostgresql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="520" y="690" width="510" height="60" as="geometry" />
         </mxCell>
@@ -92,8 +100,8 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-30" target="cMWkDrh5dhw_toazDORD-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="780" y="590" />
-              <mxPoint x="775" y="590" />
+              <mxPoint x="775" y="550" />
+              <mxPoint x="775" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
