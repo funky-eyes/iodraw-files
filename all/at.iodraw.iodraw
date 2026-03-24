@@ -90,6 +90,9 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-32" value="advance-tire-consumer&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="414" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-33" target="cMWkDrh5dhw_toazDORD-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-33" value="overseas-credit-premium&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="550" y="420" width="120" height="60" as="geometry" />
         </mxCell>
