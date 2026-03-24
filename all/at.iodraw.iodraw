@@ -248,6 +248,9 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-80" value="DataBI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-81" value="Person" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
