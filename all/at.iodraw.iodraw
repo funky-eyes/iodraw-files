@@ -48,6 +48,9 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-18" value="advance-tire-api&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="680" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-20" target="cMWkDrh5dhw_toazDORD-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="271.5" y="230" width="539" height="80" as="geometry" />
         </mxCell>
@@ -183,7 +186,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-55" value="GreptimeDB&lt;div&gt;(App logs&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2C4G&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cMWkDrh5dhw_toazDORD-55" value="GreptimeDB&lt;div&gt;(App logs&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2C4G&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="920" y="140" width="110" height="360" as="geometry" />
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.039;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-7" target="cMWkDrh5dhw_toazDORD-55">
