@@ -93,6 +93,9 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-33" value="overseas-credit-premium&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="550" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-34" target="cMWkDrh5dhw_toazDORD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-34" value="advance-tire-api&lt;div&gt;4c8g&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
           <mxGeometry x="680" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -164,20 +167,6 @@
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-51" value="Config" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="370.00000000000045" y="95.00285714285711" as="geometry" />
-        </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-34" target="cMWkDrh5dhw_toazDORD-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="889" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-29" target="cMWkDrh5dhw_toazDORD-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="889" y="360" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-55" value="GreptimeDB&lt;div&gt;(App logs&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;2C4G&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="920" y="140" width="110" height="360" as="geometry" />
