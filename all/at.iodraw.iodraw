@@ -183,8 +183,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-55" value="GreptimeDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="cMWkDrh5dhw_toazDORD-55" value="GreptimeDB&lt;div&gt;2C4G&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="140" width="110" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
