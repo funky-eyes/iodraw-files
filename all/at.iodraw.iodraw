@@ -39,6 +39,11 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-15" value="P&lt;span style=&quot;background-color: initial;&quot;&gt;ostgresql&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="520" y="570" width="510" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cMWkDrh5dhw_toazDORD-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cMWkDrh5dhw_toazDORD-16" value="Aws S3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry y="570" width="510" height="60" as="geometry" />
         </mxCell>
@@ -234,7 +239,7 @@
         <mxCell id="cMWkDrh5dhw_toazDORD-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.121;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-32" target="cMWkDrh5dhw_toazDORD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cMWkDrh5dhw_toazDORD-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-32" target="cMWkDrh5dhw_toazDORD-16">
+        <mxCell id="cMWkDrh5dhw_toazDORD-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.724;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="cMWkDrh5dhw_toazDORD-32" target="cMWkDrh5dhw_toazDORD-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
