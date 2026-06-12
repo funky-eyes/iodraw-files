@@ -10,10 +10,13 @@
         <mxCell id="T5G1-dWFt7qoh_w9zOqt-1" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="T5G1-dWFt7qoh_w9zOqt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T5G1-dWFt7qoh_w9zOqt-2" target="T5G1-dWFt7qoh_w9zOqt-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T5G1-dWFt7qoh_w9zOqt-2" value="minos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T5G1-dWFt7qoh_w9zOqt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T5G1-dWFt7qoh_w9zOqt-4" value="higress-mcp 网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
