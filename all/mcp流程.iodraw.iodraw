@@ -16,7 +16,7 @@
         <mxCell id="T5G1-dWFt7qoh_w9zOqt-2" value="minos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T5G1-dWFt7qoh_w9zOqt-4" value="higress-mcp 网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T5G1-dWFt7qoh_w9zOqt-4" value="higress&lt;div&gt;mcp-gateway&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
