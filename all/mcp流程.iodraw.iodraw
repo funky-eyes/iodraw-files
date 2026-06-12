@@ -24,7 +24,7 @@
         <mxCell id="T5G1-dWFt7qoh_w9zOqt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T5G1-dWFt7qoh_w9zOqt-4" target="T5G1-dWFt7qoh_w9zOqt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T5G1-dWFt7qoh_w9zOqt-19" value="4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T5G1-dWFt7qoh_w9zOqt-13">
+        <mxCell id="T5G1-dWFt7qoh_w9zOqt-19" value="5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T5G1-dWFt7qoh_w9zOqt-13">
           <mxGeometry x="0.4514" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -72,8 +72,8 @@
         <mxCell id="T5G1-dWFt7qoh_w9zOqt-14" value="auth-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T5G1-dWFt7qoh_w9zOqt-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="428" width="50" height="30" as="geometry" />
+        <mxCell id="T5G1-dWFt7qoh_w9zOqt-21" value="返回鉴权结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="428" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
